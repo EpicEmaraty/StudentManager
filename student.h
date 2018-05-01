@@ -12,11 +12,12 @@ private:
 
 string firstName;
 string lastName;
-
+int number;
+string full;
 
 public:
-void person.setName(string, string);
-void person.fullName();
+void setName(string, string);
+string fullName();
 
 };
 
